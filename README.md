@@ -1,3 +1,3 @@
 # Development
 
-https://www.aakashweb.com/docs/git-it-write/writing-posts/
+The documentation pages developed here are published on the official [Redstone-Lexicon](https://redstone-lexicon.net) website using the WordPress plugin "[Git it Write](https://github.com/vaakash/git-it-write)". WordPress is the [CMS](https://en.wikipedia.org/wiki/Content_management_system) used to implement the site. The technical requirements for the correct conversion of the Markdown files found here (including HTML content) to WordPress are described in [this plugin documentation](https://www.aakashweb.com/docs/git-it-write/writing-posts).

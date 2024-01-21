@@ -1,6 +1,6 @@
 ---
 
-title: Title of the post1
+title: Title of the post2
 post_status: publish
 
 ---
